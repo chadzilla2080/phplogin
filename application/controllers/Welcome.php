@@ -22,10 +22,4 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
-
-	public fucntion test()
-	{
-
-		echo "Testing Testing, Testing 1.....2......3!";
-	}
 }
